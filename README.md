@@ -15,7 +15,7 @@
       transform: translateX(-50%);
     }
     .obstacle {
-      width: 100px; height: 100px;
+      width: 50px; height: 50px;
       background: url('https://png.pngtree.com/png-clipart/20230913/original/pngtree-red-devil-png-image_11062566.png') no-repeat center center/contain;
       position: absolute; top: 0;
     }
